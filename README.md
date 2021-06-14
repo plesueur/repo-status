@@ -1,4 +1,11 @@
 # repo-status
 
-<div style="text-align:center"><img width="547" alt="status-in-progress" src="https://user-images.githubusercontent.com/2255248/121946648-01e3b780-cd0a-11eb-897c-1dd2eb942990.png"></div>
-
+<p align="center">
+  <img width="547" alt="status-in-progress" src="https://user-images.githubusercontent.com/2255248/121947405-dca37900-cd0a-11eb-96d4-0fce94f6876e.png">
+</p>
+<p align="center">
+  <img width="547" alt="status-under-review" src="https://user-images.githubusercontent.com/2255248/121947412-ddd4a600-cd0a-11eb-8708-c039b4ae6625.png">
+</p>
+<p align="center">
+  <img width="547" alt="status-final" src="https://user-images.githubusercontent.com/2255248/121947418-e0370000-cd0a-11eb-91b7-9f3883129cd7.png">
+</p>
