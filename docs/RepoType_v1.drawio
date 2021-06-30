@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T00:11:17.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="xiJcROrG-f54RtV-7ymb" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T00:14:37.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="7B9TX9wwBhzRObbr8bio" version="14.7.7" type="github">
   <diagram id="k6SeSXTnGUPqGrDsDKeq" name="Page-1">
-    <mxGraphModel dx="1038" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N4SFv86cLoxcm_3qqXyF-7" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 14px&quot;&gt;Obtain Sufficient Review for Public Release&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FF0000;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="130" y="469" width="450" height="441" as="geometry" />
+        <mxCell id="N4SFv86cLoxcm_3qqXyF-7" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 14px&quot;&gt;Obtain Sufficient Review of Information/Data for Public Release&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FF0000;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="506" width="450" height="441" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-1" target="N4SFv86cLoxcm_3qqXyF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="395" y="30" width="90" height="90" as="geometry" />
+          <mxGeometry x="395" y="67" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-10" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-2" target="N4SFv86cLoxcm_3qqXyF-3">
           <mxGeometry relative="1" as="geometry" />
@@ -19,8 +19,8 @@
         <mxCell id="N4SFv86cLoxcm_3qqXyF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-2" target="N4SFv86cLoxcm_3qqXyF-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="215" />
-              <mxPoint x="560" y="215" />
+              <mxPoint x="560" y="252" />
+              <mxPoint x="560" y="252" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -30,25 +30,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-2" value="Is Protected?&lt;br&gt;&amp;nbsp;(A+)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="160" width="110" height="110" as="geometry" />
+          <mxGeometry x="385" y="197" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-20" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-3" target="N4SFv86cLoxcm_3qqXyF-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-22" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-3" target="N4SFv86cLoxcm_3qqXyF-6">
           <mxGeometry x="-0.5667" relative="1" as="geometry">
-            <mxPoint x="320" y="470" as="targetPoint" />
+            <mxPoint x="320" y="507" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-3" value="Includes &lt;br&gt;proprietary information?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="320" width="110" height="110" as="geometry" />
+          <mxGeometry x="385" y="357" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-33" value="&lt;b&gt;NO / UNSURE&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-5" target="N4SFv86cLoxcm_3qqXyF-31">
           <mxGeometry x="-0.5714" relative="1" as="geometry">
-            <mxPoint x="200" y="794" as="sourcePoint" />
+            <mxPoint x="200" y="831" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="200" y="863" />
+              <mxPoint x="200" y="900" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -57,7 +57,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-5" value="Has negligible impact if &lt;br&gt;released?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="661" width="110" height="110" as="geometry" />
+          <mxGeometry x="145" y="698" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-12" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-6" target="N4SFv86cLoxcm_3qqXyF-5">
           <mxGeometry relative="1" as="geometry" />
@@ -66,34 +66,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-6" value="Is Scientific / Technical Publication?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="510" width="110" height="110" as="geometry" />
+          <mxGeometry x="145" y="547" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-13" value="&lt;b&gt;Cannot be Published on Github&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="610" y="185" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-18" value="&lt;b&gt;Private Repository&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="610" y="345" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="382" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-21" value="&lt;b&gt;Public Repository&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="610" y="686" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="723" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-26" target="N4SFv86cLoxcm_3qqXyF-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-26" value="Follow review requirements in NRCan Guidelines for Scientific Publications." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="320" y="535" width="220" height="60" as="geometry" />
+          <mxGeometry x="320" y="572" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-30" target="N4SFv86cLoxcm_3qqXyF-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-30" value="Internal peer review by team member." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="320" y="686" width="220" height="60" as="geometry" />
+          <mxGeometry x="320" y="723" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-31" target="N4SFv86cLoxcm_3qqXyF-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-31" value="Discuss with team: (1) if the data can be published publicly, and (2) associated review requirement." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="320" y="833" width="220" height="60" as="geometry" />
+          <mxGeometry x="320" y="870" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N4SFv86cLoxcm_3qqXyF-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Open Science Data on GitHub Decision Tree&lt;br&gt;Step 1: Choosing an Initial Repo Type&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="20" width="430" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
