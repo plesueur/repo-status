@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T00:06:54.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3zfw-N1tgqIl61vbTPix" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T00:11:17.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="xiJcROrG-f54RtV-7ymb" version="14.7.7" type="github">
   <diagram id="k6SeSXTnGUPqGrDsDKeq" name="Page-1">
     <mxGraphModel dx="1038" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="N4SFv86cLoxcm_3qqXyF-7" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 14px&quot;&gt;Obtain Sufficient Review for Public Release&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FF0000;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="130" y="469" width="450" height="401" as="geometry" />
+          <mxGeometry x="130" y="469" width="450" height="441" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-1" target="N4SFv86cLoxcm_3qqXyF-2">
           <mxGeometry relative="1" as="geometry" />
@@ -44,11 +44,11 @@
         <mxCell id="N4SFv86cLoxcm_3qqXyF-3" value="Includes &lt;br&gt;proprietary information?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="320" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="N4SFv86cLoxcm_3qqXyF-33" value="&lt;b&gt;NO / UNSURE&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="N4SFv86cLoxcm_3qqXyF-31">
+        <mxCell id="N4SFv86cLoxcm_3qqXyF-33" value="&lt;b&gt;NO / UNSURE&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-5" target="N4SFv86cLoxcm_3qqXyF-31">
           <mxGeometry x="-0.5714" relative="1" as="geometry">
-            <mxPoint x="200" y="750" as="sourcePoint" />
+            <mxPoint x="200" y="794" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="200" y="819" />
+              <mxPoint x="200" y="863" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -80,20 +80,20 @@
         <mxCell id="N4SFv86cLoxcm_3qqXyF-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-26" target="N4SFv86cLoxcm_3qqXyF-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N4SFv86cLoxcm_3qqXyF-26" value="Follow review requirements in NRCan Guidelines for Scientific Publications" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="N4SFv86cLoxcm_3qqXyF-26" value="Follow review requirements in NRCan Guidelines for Scientific Publications." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="320" y="535" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-30" target="N4SFv86cLoxcm_3qqXyF-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N4SFv86cLoxcm_3qqXyF-30" value="Internal peer review by team member" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="N4SFv86cLoxcm_3qqXyF-30" value="Internal peer review by team member." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="320" y="686" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N4SFv86cLoxcm_3qqXyF-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N4SFv86cLoxcm_3qqXyF-31" target="N4SFv86cLoxcm_3qqXyF-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N4SFv86cLoxcm_3qqXyF-31" value="Discuss review requirement&amp;nbsp;with team or manager" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="320" y="789" width="220" height="60" as="geometry" />
+        <mxCell id="N4SFv86cLoxcm_3qqXyF-31" value="Discuss with team: (1) if the data can be published publicly, and (2) associated review requirement." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="320" y="833" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
